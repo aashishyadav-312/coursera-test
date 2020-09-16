@@ -9,7 +9,7 @@
 		margin: 50px;
 	}
 	
-	
+
 	.first {
 		margin: 20px;
 		
@@ -55,6 +55,15 @@
 		clear: right;
 		padding: 10px;
 	}
+	.xs {
+		width: 50%;
+		float: left;
+	}
+	.xm {
+		width: 100%;
+		float: left;
+	}
+
 
 	/********LARGE MEDIA DEVICES ********/
 	@media (min-width: 992px){
@@ -188,3 +197,5 @@
 		}
 
 	}
+	
+
